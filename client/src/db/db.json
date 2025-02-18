@@ -1,0 +1,114 @@
+{
+  "student": [
+    {
+      "name": "tanu",
+      "Class": 4,
+      "city": "bhopal",
+      "password": 123,
+      "id": "3dfc"
+    },
+    {
+      "id": "4a2e"
+    },
+    {
+      "id": "a774"
+    },
+    {
+      "id": "2f2b"
+    },
+    {
+      "id": "2035"
+    },
+    {
+      "id": "3d77"
+    },
+    {
+      "id": "605a"
+    },
+    {
+      "id": "8201"
+    },
+    {
+      "id": "b6ce"
+    },
+    {
+      "id": "ecdb"
+    },
+    {
+      "id": "9ebb"
+    },
+    {
+      "id": "03a6"
+    },
+    {
+      "id": "588b"
+    },
+    {
+      "id": "73d1"
+    },
+    {
+      "id": "ef06"
+    },
+    {
+      "id": "3cc9"
+    },
+    {
+      "id": "3256"
+    },
+    {
+      "id": "dde9"
+    },
+    {
+      "id": "ed35"
+    },
+    {
+      "id": "aa6e"
+    },
+    {
+      "id": "0cb0"
+    },
+    {
+      "id": "11fa"
+    },
+    {
+      "id": "48ce"
+    },
+    {
+      "id": "b901"
+    },
+    {
+      "id": "0cee"
+    },
+    {
+      "id": "a3e4"
+    },
+    {
+      "id": "d5ce",
+      "name": "pooja",
+      "class": "6",
+      "city": "Bhopal",
+      "password": "123"
+    },
+    {
+      "id": "f459",
+      "name": "pooja",
+      "class": "6",
+      "city": "Bhopal",
+      "password": "123"
+    },
+    {
+      "id": "ae20",
+      "name": "pooja",
+      "class": "6",
+      "city": "Bhopal",
+      "password": "123"
+    },
+    {
+      "id": "c881",
+      "name": "pooja",
+      "class": "6",
+      "city": "Bhopal",
+      "password": "123"
+    }
+  ]
+}
